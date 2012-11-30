@@ -1,6 +1,7 @@
 jquery.touch-mouse
 ==================
 Simulates mouse events on touch-enabled devices. With delay option it allows for hybrid usage that does not block scrolling and tapping.
+This plugin requires AMD. To make AMD optional please contribute an improvement.
 
 Example usages:
 
